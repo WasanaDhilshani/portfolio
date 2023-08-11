@@ -1,3 +1,3 @@
 # portfolio
-
-url: https://github.com/WasanaDhilshani/portfolio
+url: https://wasanadhilshani.github.io/portfolio/
+source: https://github.com/WasanaDhilshani/portfolio
